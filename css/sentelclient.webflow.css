@@ -1,0 +1,99 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+  font-size: 12px;
+  line-height: 20px;
+}
+h1 {
+  margin: 10px 0px;
+  font-size: 38px;
+  line-height: 44px;
+  font-weight: 700;
+}
+h2 {
+  margin: 10px 0px;
+  font-size: 29px;
+  line-height: 36px;
+  font-weight: 700;
+  text-align: center;
+}
+h3 {
+  margin: 42px 0px 10px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+h4 {
+  margin: 10px 0px;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+}
+h5 {
+  margin: 10px 0px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+h6 {
+  margin: 10px 0px;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 700;
+}
+p {
+  margin-bottom: 5px;
+  text-align: center;
+}
+.button {
+  display: inline-block;
+  padding: 4px 15px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.logo {
+  margin-top: 34px;
+  text-align: center;
+}
+.tagline {
+  text-align: center;
+}
+.hero {
+  height: 307px;
+  background-image: url(../images/871051_96646017.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat no-repeat;
+  box-shadow: rgba(0, 0, 0, 0.27) 0px 6px 29px 0px inset;
+}
+.header {
+  padding-bottom: 23px;
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.13), white 48%);
+  background-image: -o-linear-gradient(bottom, rgba(0, 0, 0, 0.13), white 48%);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.13), white 48%);
+}
+.isologismos {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.15), white 59%);
+  background-image: -o-linear-gradient(rgba(0, 0, 0, 0.15), white 59%);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.15), white 59%);
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 0px 35px 14px;
+}
+.address {
+  text-align: center;
+}
+.contact {
+  display: block;
+  margin-top: 8px;
+  color: #b80000;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+}
